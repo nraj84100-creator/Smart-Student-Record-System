@@ -1,0 +1,21 @@
+
+# Compiled files
+*.exe
+*.o
+*.obj
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary data and logs
+*.tmp
+*.bak
+*.log
+students.original.csv
